@@ -111,7 +111,7 @@ const hitungMundur = setInterval(function () {
 // Form submit to spreedsheets
 
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycbydtI759XNMYoMNPeMlKu5pcnslQxjesQ6KOzxOkiL3PShOgcXtrWZG6uzZuMpI9PMM/exec";
+ "https://script.google.com/macros/s/AKfycbz1Parwt4W9SI3_VkNE73rMO903DQ4fv2VDG7IBxN9p6sFwrOb0fyj1p0VF--v0CTCt/exec";
 const form = document.forms["my-form"];
 
 const myForm = document.querySelector(".myForm");
