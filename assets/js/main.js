@@ -55,7 +55,7 @@ function musik(el) {
 
 
 // Countdown
-const tglTujuan = new Date("December 11 2024 10:00:00").getTime();
+const tglTujuan = new Date("December 11 2025 10:00:00").getTime();
 
 const hitungMundur = setInterval(function () {
   const tglSekarang = new Date().getTime();
@@ -183,3 +183,4 @@ btnCopy.forEach((el) => {
     });
   });
 });
+
